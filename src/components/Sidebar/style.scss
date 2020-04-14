@@ -1,0 +1,23 @@
+@import '../../../styles/mixins.scss';
+
+.sidebar {
+    position: absolute;
+    width: 310px;
+    height: auto;
+    top: 0;
+    right: 0;
+    margin: 1rem;
+    padding: 1rem;
+    background: #29323C;
+    color: rgb(160, 167, 180);
+
+    &__indicator {
+        @include flex-definition(column, center, center);
+        width: 100%;
+        border-bottom: 1px solid;
+    }
+
+    h3 {
+        margin: 0 0 1rem;
+    }
+}
