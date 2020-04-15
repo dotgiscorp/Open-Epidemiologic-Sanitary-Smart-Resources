@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b132b38e0e95bc007693582940af4811",
+    "revision": "8d8681c079fcf9ab40093e3b48975523",
     "url": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/index.html"
   },
   {
-    "revision": "cb39382564553e950f5d",
+    "revision": "37e7588c7566a539d3d3",
     "url": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/css/main.8952f20b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/2.4d2223c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb39382564553e950f5d",
-    "url": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/main.0689e481.chunk.js"
+    "revision": "37e7588c7566a539d3d3",
+    "url": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/main.5d23f5ec.chunk.js"
   },
   {
     "revision": "0543ddb514fb35730b37",

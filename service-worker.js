@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/precache-manifest.ffca0a80da45cce5630c2d3a4ba165ca.js"
+  "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/precache-manifest.8dd96472f5c72766702af6f609c2e850.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/css/main.8952f20b.chunk.css",
-    "main.js": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/main.0689e481.chunk.js",
-    "main.js.map": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/main.0689e481.chunk.js.map",
+    "main.js": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/main.5d23f5ec.chunk.js",
+    "main.js.map": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/main.5d23f5ec.chunk.js.map",
     "runtime-main.js": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/runtime-main.0f4f67e8.js",
     "runtime-main.js.map": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/runtime-main.0f4f67e8.js.map",
     "static/js/2.4d2223c1.chunk.js": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/2.4d2223c1.chunk.js",
     "static/js/2.4d2223c1.chunk.js.map": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/2.4d2223c1.chunk.js.map",
     "index.html": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/index.html",
-    "precache-manifest.ffca0a80da45cce5630c2d3a4ba165ca.js": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/precache-manifest.ffca0a80da45cce5630c2d3a4ba165ca.js",
+    "precache-manifest.8dd96472f5c72766702af6f609c2e850.js": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/precache-manifest.8dd96472f5c72766702af6f609c2e850.js",
     "service-worker.js": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/service-worker.js",
     "static/css/main.8952f20b.chunk.css.map": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/css/main.8952f20b.chunk.css.map",
     "static/js/2.4d2223c1.chunk.js.LICENSE.txt": "/dotgiscorp/Open-Epidemiologic-Sanitary-Smart-Resources.git/static/js/2.4d2223c1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0f4f67e8.js",
     "static/js/2.4d2223c1.chunk.js",
     "static/css/main.8952f20b.chunk.css",
-    "static/js/main.0689e481.chunk.js"
+    "static/js/main.5d23f5ec.chunk.js"
   ]
 }
