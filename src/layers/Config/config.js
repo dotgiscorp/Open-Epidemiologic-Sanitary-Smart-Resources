@@ -1,5 +1,5 @@
 export default {
-  mapsKey: 'pu5JvelQnwlDb2iIX2Gqfg',
+  mapsKey: 'csEENa_5uea21ar7wwUKTA',
 
   dotgisUser: 'dotgis',
   dotgisMapsKey: 'wqTxcWJUw09P4IzpBo4kfg',

@@ -21,7 +21,7 @@ const Sidebar = ({ mapObject }) => {
             workersFlow: `SELECT * FROM viewportfeaturescodvidworkersflow(${[...test]})`
         }
 
-        const viewportFeaturesEndpoint = query => `https://dotgis.carto.com/api/v2/sql?q=${query}&api_key=5583d7b33b1565885b41ad5dfa24f705a1dfef81`;
+        const viewportFeaturesEndpoint = query => `https://dotgis.carto.com/api/v2/sql?q=${query}&api_key=csEENa_5uea21ar7wwUKTA`;
 
         Promise.all([fetchData(viewportFeaturesEndpoint(queries.covid)), fetchData(viewportFeaturesEndpoint(queries.workersFlow))])
           .then(responses => {
